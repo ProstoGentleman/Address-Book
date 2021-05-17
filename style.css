@@ -1,0 +1,47 @@
+h1 {
+  text-align: center;
+}
+.row-style {
+  background-color: skyblue;
+  text-align: center;
+}
+.col {
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 10px;
+  border: 1px solid #000;
+}
+.form-group {
+  width: 450px;
+}
+.input-text {
+  width: 100px;
+}
+.btn-style {
+  margin: 0px;
+  width: 450px;
+}
+.records input:read-only {
+  border: none;
+  outline: none;
+}
+.hidden {
+  display: none;
+}
+.head-table {
+  background-color: skyblue;
+  width: 20%;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 10px;
+  border: 1px solid #000;
+}
+.btn-save {
+  display: block;
+  text-align: center;
+}
+.btn-defolt {
+  cursor: pointer;
+}
